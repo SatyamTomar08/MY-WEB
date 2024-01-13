@@ -1,0 +1,105 @@
+html{
+    background-color: #5DB7DE;
+}
+
+header{
+    text-align: center;
+    color: #07020D;
+}
+
+.about-me{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    background-color: #F1E9DB;
+    display: inline-block;
+
+    img{
+        float: inline-start;
+        border: 20px solid #F1E9DB ;
+    }
+
+    .bio{
+        border: 20px solid #F1E9DB;
+    }
+
+    h2{
+        text-align: center;
+    }
+}
+
+.Projects{
+    background-color: #F1E9DB;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+   
+
+    h2{
+        text-align: center;
+    }
+}
+
+.work{
+    background-color: #F1E9DB;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+   
+
+    h2{
+        text-align: center;
+    }
+
+}
+
+.edu{
+    background-color: #F1E9DB;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+   
+
+    h2{
+        text-align: center;
+    }
+}
+
+.social-network{
+    background-color: #F1E9DB;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+   
+
+    h2{
+        text-align: center;
+    }
+}
+
+.contact{
+    background-color: #F1E9DB;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+   
+
+    h2{
+        text-align: center;
+    }
+}
+  footer{
+    text-align: center;
+  }
+
+  .container{
+    display: inline-flex;
+    flex-direction: column;
+  }
+
